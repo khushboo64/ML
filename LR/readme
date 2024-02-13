@@ -1,1 +1,14 @@
-
+Linear Regression model for Used Car Price Prediction.
+Steps - 
+1. Preprocessing - 
+  Deal with missing values
+  Explore PDF
+  CHECKING OLS Assumptions
+  Relaxing Assumptions
+2. LR MODEL
+  Scale the data
+  Train Test split
+  Create Regression
+  Finding weights and Bias
+3. Testing the Model
+  dataframe showing Prediction, Target, Residual and Difference%
